@@ -7,7 +7,7 @@ So, PawFinds makes it easy to find new homes for pets and connect them with peop
 
 
 # 🌐 Deployed Version:
-[Click to visit the deployed version](https://whimsical-capybara-946a38.netlify.app/auth)
+[Click to visit the deployed version](https://whimsical-capybara-946a38.netlify.app)
 
 
 ## Introduction
