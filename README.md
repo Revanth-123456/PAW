@@ -1,27 +1,19 @@
-# PawFinds v2.0: A Pet Adoption System | MERN Stack Portfolio with JWT Auth, OTP Verification & Admin Panel
-PawFinds is a website where users can either give a pet up for adoption or adopt one. The admin decides if a pet can be put up for adoption and reviews adoption applications. This new version includes JWT authentication, OTP verification, user profiles, and an enhanced admin dashboard with data visualization.
+# PawFinds: A Pet Adoption System | MERN Stack Portfolio with Admin Panel JWT Auth, OTP Verification & Admin Panel
+"PawFinds" is a website where you can either give a pet up for adoption or adopt one. If you have a pet you can't care for anymore, you fill out a form. The admin then decides if they can put your pet on PawFinds. If they approve, they'll ask you to bring the pet to an adoption center.It includes includes JWT authentication, OTP verification, user profiles, and an enhanced admin dashboard with data visualization.
+
+If you want to adopt a pet, you fill out a form with your details. The admin gets a lot of requests and picks the best one. If they choose you, they'll delete the other requests and take the pet off PawFinds. They'll keep a record of the pet and your contact info.
+
+So, PawFinds makes it easy to find new homes for pets and connect them with people who want to adopt.
+
 
 # 🌐 Deployed Version:
-[Click to visit the deployed version](https://pawfinds-v2.onrender.com/)
+[Click to visit the deployed version](https://whimsical-capybara-946a38.netlify.app/auth)
 
-[Click to get older version PawFinds V1.0 ](https://github.com/KaShiekzmi/PawFinds-A-Pet-Adoption-System-MERN-Stack-Portfolio-with-Admin-Panel)
-
-### Watch PawFinds in Action
-
-[![Watch the video](https://github.com/user-attachments/assets/62fadd25-ea4f-46af-940b-5bab522e0e89)](https://youtu.be/SCcAGzNVuu8?si=m4Hex9oKHttvYLoj)
-
-Click the image above to watch a demo of PawFinds on YouTube.
 
 ## Introduction
-PawFinds connects pet lovers with pets in need of a home. This platform simplifies pet adoption with a user-friendly experience, now with enhanced security and functionality.
+PawFinds is a web application that connects pet lovers with pets in need of a home. Our platform simplifies the process of pet adoption by providing a seamless user experience.
 
-## New Features (V2.0)
- - JWT Authentication: Users are securely authenticated with JSON Web Tokens (JWT).
- - OTP Verification: Added extra security for users with one-time password (OTP) verification.
- - User Profiles: Each user now has a personalized profile where they can manage their information.
- - Admin Dashboard: A comprehensive dashboard with graphs showing the number of users registered and a pie chart displaying different types of pets available for adoption.
-
-## General Features
+## Features
 - Users can submit a pet for adoption by filling out a form.
 - Admin reviews adoption submissions and can approve or reject them.
 - Approved pets are listed on PawFinds for potential adopters to view.
@@ -31,17 +23,23 @@ PawFinds connects pet lovers with pets in need of a home. This platform simplifi
 - User can browse and search for available pets for adoption.
 - They can filter pets based on pet type i.e. dog, cat, fish, etc.
 - PawFinds offer detailed pet profiles with photos and descriptions.
+- JWT Authentication: Users are securely authenticated with JSON Web Tokens (JWT).
+- OTP Verification: Added extra security for users with one-time password (OTP) verification.
+- User Profiles: Each user now has a personalized profile where they can manage their information.
+- Admin Dashboard: A comprehensive dashboard with graphs showing the number of users registered and a pie chart displaying different types of pets available for adoption.
+
 
 ## Technology Stack
-PawFinds is built using the MERN stack (MongoDB, Express.js, React, Node.js) with added JWT authentication and OTP verification.
+PawFinds is built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
 ## **Please Note: This Project Is Designed for Laptop Screens**
-Kindly be aware that this project is optimized for laptop screens and is not responsive for mobile or tablet devices.
+Kindly be aware that this project is optimized for laptop screens and is not responsive for mobile or tablet devices. The development of this project was carried out during an internship, and as the internship period has come to an end, further enhancements may not be applied.
+Follow these steps to set up the project locally:
 
 ## Installation
 Follow these steps to set up the project locally:
 
-1. Clone the repository: `git clone https://github.com/KaShiekzmi/PawFinds-v2.0-JWT-OTP-Admin-Dashboard.git`
+1. Clone the repository: `git clone https://github.com/Revanth-123456/PAW.git`
 2. Install dependencies: `npm install`
 3. Create a .env file in the server directory with the following variables:
    - mongooseURL=mongodb+srv://username:password@cluster-url.mongodb.net/?retryWrites=true&w=majority&appName=pawfinds-pet-adoption-system
@@ -81,5 +79,6 @@ We welcome contributions to improve PawFinds! To contribute, follow these steps:
 
 ## Contact Information
 For questions, please contact 
-- [GitHub](https://github.com/kashiekzmi)
-- [LinkedIn](https://www.linkedin.com/in/kashiekzmi)
+- [GitHub](https://github.com/Revanth-123456)
+- [LinkedIn](https://www.linkedin.com/in/revanth-v-s-a30907282)
+
