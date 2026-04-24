@@ -68,6 +68,8 @@ To enable your app to send emails through your Gmail account, you’ll need to g
 
 ### Additional Notes
 - Ensure you have Node.js and npm installed on your machine.
+- ADMIN EMAIL-revanthvs04@gmail.com
+- ADMIN PASSWORD-kF9#mX2$vLp8@qR5
 
 ## Contributing
 We welcome contributions to improve PawFinds! To contribute, follow these steps:
